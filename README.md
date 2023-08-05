@@ -1,5 +1,5 @@
 # Django-Docs 한글 번역
-## 2022-2 Introduction to Open Source Software (F069)
+## 2022-2 Introduction to Open Source Software F069
 
 [Syllabus](https://github.com/Chihiro0623/Django-Docs-Korean-Translation/blob/main/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4SW%EC%9E%85%EB%AC%B8.pdf)  
 [Report](https://github.com/Chihiro0623/Django-Docs-Korean-Translation/blob/main/Report.md)  
